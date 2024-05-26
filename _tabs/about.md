@@ -1,8 +1,18 @@
 ---
-# the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 6
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
+Welcome to the <b>Zwarts-Sec</b> blog, where we'll delve into the intricate world of Application Security. I’m thrilled to share my learnings from this cyber security journey I've embarked on.
+
+As a Senior Software Engineer specializing in .NET development and Microsoft Azure Cloud, I’ve honed my skills to craft robust, scalable, and secure systems that combat emerging threats in today's digital landscape. My journey as a Software Engineer has empowered me to engineer cutting-edge applications that not only meet business objectives but also resist potential vulnerabilities.
+
+I'll be utilizing my Software Engineering skills in the world of application security to help improve the application security landscape. In this blog, I aim to unravel the complexities of application security, 
+and I'll be documenting my cyber security journey.
+
+Join me as we explore and navigate the ever evolving landscape of application security. Together, let’s cultivate a deeper understanding of how to build resilient, secure applications that not only withstand scrutiny but set new benchmarks for excellence in cyber security.
+
+Cheers,
+
+Jaco
